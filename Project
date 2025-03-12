@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Hello World!" << endl;
+cout << "Bye World!" << endl;
     return 0;
 }
 /ЩИТ МЭНЧИК КАК же Я ХОРОШ!111
